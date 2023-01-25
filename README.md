@@ -52,3 +52,6 @@ Explanation
 
 There are  positive numbers,  negative numbers, and  zero in the array.
 The proportions of occurrence are positive: , negative:  and zeros: .
+
+![image](https://user-images.githubusercontent.com/43896389/214697346-0875d3bb-d178-44b8-baad-ff962bfeaef9.png)
+
